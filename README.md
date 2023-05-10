@@ -1,4 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSW-G-D-iph6&theme=merko)
+<img width="320" alt="Screenshot 2023-05-10 at 19 00 21" src="https://github.com/BSW-G-D-iph6/BSW-G-D-iph6/assets/132499310/d9610518-9a5d-4bb0-83e6-a4eccf71b339">
 
 
 <!--
