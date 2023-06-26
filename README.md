@@ -1,7 +1,15 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSW-G-D-iph6&theme=merko)
 <!-- <img width="320" alt="Screenshot 2023-05-10 at 19 00 21" src="https://github.com/BSW-G-D-iph6/BSW-G-D-iph6/assets/132499310/d9610518-9a5d-4bb0-83e6-a4eccf71b339"> -->
+<h1 align="center">Welcome :</h1>
+<p align="center">
+  <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSW-G-D-iph6&theme=merko">
+</p>
 
-
+<p align="center">
+  <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUyNTIyOGNmNGJiZTM5ZjEyMTI5M2EzN2EzMWRkMTkzNDk1YWE5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/E1uxqv33FmpQE0UlaZ/giphy.gif">
+</p>
+<p align="center">
+  <img src= "https://komarev.com/ghpvc/?username=BSW-G-D-iph6&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=blue">
+</p>
 <!--
 **BSW-G-D-iph6/BSW-G-D-iph6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=BSW-G-D-iph6&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=blue)
