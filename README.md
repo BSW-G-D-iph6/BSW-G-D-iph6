@@ -3,7 +3,6 @@
 <p align="center">
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSW-G-D-iph6&theme=merko">
 </p>
-<h3 align="center">A gif :</h3>
 <p align="center">
   <img src= "https://i.giphy.com/media/znz35G2kJep7YOzAZe/giphy.webp">
 </p>
