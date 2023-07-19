@@ -4,6 +4,7 @@
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSW-G-D-iph6&theme=merko">
 </p>
 <p align="center">
+<!--   <img src= "https://media1.giphy.com/media/qJLRYLha74byNmXtg8/giphy.gif"> -->
   <img src= "https://i.giphy.com/media/znz35G2kJep7YOzAZe/giphy.webp">
 </p>
 
