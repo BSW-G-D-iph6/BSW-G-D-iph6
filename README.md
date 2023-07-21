@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src= "https://komarev.com/ghpvc/?username=BSW-G-D-iph6&label=PROFILE+VIEW+COUNT&style=for-the-badge&color=blue">
+  <img src= "https://komarev.com/ghpvc/?username=BSW-G-D-iph6&label=PROFIL+SICHT+ZÄHLEN&style=for-the-badge&color=blue">
 </p>
 <!--
 **BSW-G-D-iph6/BSW-G-D-iph6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
