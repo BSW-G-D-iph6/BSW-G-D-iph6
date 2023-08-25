@@ -3,9 +3,7 @@
 <p align="center">
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSW-G-D-iph6&theme=merko">
 </p>
-<p align="center">
-  <img src= "https://github.com/BSW-G-D-iph6/BSW-G-D-iph6/assets/132499310/a27b1c27-16a3-4fd1-a115-64ccd8334c2d">
-</p>
+
 
 <p align="center">
 <!--   <img src= "h![Uploading tumblr_inline_pt9bcnAzxI1unqo02_640.jpg…]()
@@ -19,6 +17,9 @@ ttps://media1.giphy.com/media/qJLRYLha74byNmXtg8/giphy.gif"> -->
 
 <p align="center">
   <img src= "https://komarev.com/ghpvc/?username=BSW-G-D-iph6&label=PROFIL+SICHT+ZÄHLEN&style=for-the-badge&color=blue">
+</p>
+<p align="center">
+  <img src= "https://github.com/BSW-G-D-iph6/BSW-G-D-iph6/assets/132499310/a27b1c27-16a3-4fd1-a115-64ccd8334c2d">
 </p>
 <!--
 **BSW-G-D-iph6/BSW-G-D-iph6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
