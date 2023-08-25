@@ -4,7 +4,12 @@
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSW-G-D-iph6&theme=merko">
 </p>
 <p align="center">
-<!--   <img src= "https://media1.giphy.com/media/qJLRYLha74byNmXtg8/giphy.gif"> -->
+  <img src= "https://github.com/BSW-G-D-iph6/BSW-G-D-iph6/assets/132499310/a27b1c27-16a3-4fd1-a115-64ccd8334c2d">
+</p>
+
+<p align="center">
+<!--   <img src= "h![Uploading tumblr_inline_pt9bcnAzxI1unqo02_640.jpg…]()
+ttps://media1.giphy.com/media/qJLRYLha74byNmXtg8/giphy.gif"> -->
   <img src= "https://i.giphy.com/media/znz35G2kJep7YOzAZe/giphy.webp">
 </p>
 
