@@ -2,7 +2,7 @@
 <h1 align="center">Wilkommen:</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=...+currently+working+on+Mankey;Mankey+is+a+pretty+cool+bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=push+back+the+square;Now+that+you+need+her;,+but+you+don't)](https://git.io/typing-svg)
 
 <p align="center">
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSW-G-D-iph6&theme=merko">
