@@ -9,6 +9,9 @@
 </p>
 
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1112732302942937129)](https://discord.com/users/1112732302942937129)
+
 <p align="center">
 <!--   <img src= "h![Uploading tumblr_inline_pt9bcnAzxI1unqo02_640.jpg…]()
 ttps://media1.giphy.com/media/qJLRYLha74byNmXtg8/giphy.gif"> -->
